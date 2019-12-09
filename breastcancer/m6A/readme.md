@@ -3,12 +3,11 @@
 
 
 ###### Identification of m6A-SNPs from previous published and available GWAS data 
-* 
 
 ###### eQTL analysis to m6A-SNPs with Genotype-Tissue Expression (GTEx) dataset
-* 
+
 
 ###### Differential gene expression analysis to m6A-SNPs related genes with TCGA Pan-cancer dataset
-*
+
 
 
